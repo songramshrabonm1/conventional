@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+.image-h{
+    height: 503px;
+
+}
+.image-part > img{
+    width: 546px;
+    height: 364px;
+}
+.card-part{
+    gap: 35px;
+    margin-top: 69px;
+    margin-bottom: 100px;
+}
+.card-title{
+    margin: 75px 0;
+}
+
+.banner{
+    background-color: red;
+    width: 35px;
+    height: 25px;
+    border: 1px solid red ;
+    border-radius: 5px;
+    padding: 0 2px;
+    position: absolute;
+    bottom: 30px;
+    left: 180px;
+}
+.heightt{
+    height: 80%;
+}
+.imagess{
+    height: 100%;
+    
+}
+.footer{
+    height:  280px;
+
+}
+.footer-txt{
+    display: flex;
+    
+}
+.apple{
+    margin-top: 20px;
+}
